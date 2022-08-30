@@ -119,12 +119,12 @@ const init = function () {
   const storage = localStorage.getItem('bookmarks');
   if (storage) state.bookmarks = JSON.parse(storage);
 };
-// init();
+init();
 
 const clearBookmark = function () {
   localStorage.clear('bookmarks');
 };
-clearBookmark();
+// clearBookmark();
 
 export const uploadRecipe = async function (newRecipe) {
   // console.log(Object.entries(newRecipe));
