@@ -3,7 +3,7 @@
   border-radius: 10rem;
   border: none;
   text-transform: uppercase;
-  color: #fff;
+  // color: #fff;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -81,8 +81,8 @@
   }
 
   &:hover {
-    color: $color-grad-2;
-    background-color: $color-grey-light-2;
+    color: #fff;
+    background-color: $color-primary;
   }
 
   &:focus {
@@ -91,7 +91,8 @@
 }
 
 .btn--round {
-  background-image: $gradient;
+  // background-image: $gradient;
+  background-color: #2e83b1;
   border-radius: 50%;
   border: none;
   cursor: pointer;
