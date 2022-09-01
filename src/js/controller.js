@@ -12,6 +12,7 @@ import 'regenerator-runtime/runtime'; // polyfiling async/await
 import { async } from 'regenerator-runtime';
 
 // https://forkify-api.herokuapp.com/v2
+// https://forkify-vod6.netlify.app/
 
 ///////////////////////////////////////
 
