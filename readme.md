@@ -19,7 +19,7 @@ Forkify is a web application used to search all the recipes in seconds
 
 ### You Can Try It Here: [Forkify][1] 😎
 
-[1]: https://forkify-vod6.netlify.app/ 'Forkify'
+[1]: https://forkify.duyvotech.com/ 'Forkify'
 
 ## Getting Started
 
