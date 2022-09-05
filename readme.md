@@ -19,7 +19,7 @@ Forkify is a web application used to search all the recipes in seconds
 
 ### You Can Try It Here: [Forkify][1] 😎
 
-[1]: https://forkify-vod6.netlify.app/ 'Forkify'
+[1]: https://forkify.duyvotech.com/ 'Forkify'
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ Forkify is a web application used to search all the recipes in seconds
 
 You can find it here : https://nodejs.org/en/download/
 
-#### 2. After install nodeJs, navigate to the internal or computer terminal and type " npm install "
+#### 2. After install nodeJs, navigate to the internal or computer terminal at this repos root and type " npm install "
 
 #### 3. Then you can run the application by following command " npm start "
 
